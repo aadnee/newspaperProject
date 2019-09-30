@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2fc0711-7bd7-4209-aca5-b2acf56c8985" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/react-services/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-services/client/src/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1562552267">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="11" />
+          <entry key="js" value="96" />
+          <entry key="json" value="18" />
+          <entry key="prettierrc" value="1" />
+          <entry key="sql" value="17" />
+          <entry key="ts" value="1" />
+          <entry key="yml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="DBN-SQL" value="17" />
+          <entry key="HTML" value="11" />
+          <entry key="JSON" value="19" />
+          <entry key="JavaScript" value="96" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="TypeScript" value="1" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="FlowJSServerService" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="17" />
+          <entry key="js" value="20135" />
+          <entry key="json" value="123" />
+          <entry key="sql" value="120" />
+          <entry key="txt" value="618" />
+          <entry key="yml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="DBN-SQL" value="120" />
+          <entry key="HTML" value="17" />
+          <entry key="JSON" value="123" />
+          <entry key="JavaScript" value="20135" />
+          <entry key="PLAIN_TEXT" value="618" />
+          <entry key="YAML" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-services/client/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10994">
+              <caret line="478" column="28" selection-start-line="478" selection-start-column="28" selection-end-line="478" selection-end-column="28" />
+              <folding>
+                <element signature="e#10#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var</find>
+      <find>page</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react-services" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/react-services/server/dao/nyheter.js" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/runsqlfile.js" />
+        <option value="$PROJECT_DIR$/react-services/server/api/Nyheter.js" />
+        <option value="$PROJECT_DIR$/react-services/client/package.json" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/kategoriDao.js" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/test.js" />
+        <option value="$PROJECT_DIR$/react-services/server/package.json" />
+        <option value="$PROJECT_DIR$/react-services/client/public/index.html" />
+        <option value="$PROJECT_DIR$/react-services/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/create_tables.sql" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/create_testdata.sql" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/dao.js" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/nyhetssakdao.js" />
+        <option value="$PROJECT_DIR$/react-services/client/src/widgets.js" />
+        <option value="$PROJECT_DIR$/react-services/client/tests/widgetsTest.js" />
+        <option value="$PROJECT_DIR$/react-services/client/src/services.js" />
+        <option value="$PROJECT_DIR$/react-services/server/tests/nyhetssakdao.test.js" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/nyhetssakdao.test.js" />
+        <option value="$PROJECT_DIR$/react-services/server/src/server.js" />
+        <option value="$PROJECT_DIR$/react-services/server/dao/kategoridao.js" />
+        <option value="$PROJECT_DIR$/react-services/client/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/node_modules/flow-bin</exe-path>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/react-services/client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react-services/server/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/react-services/client/package.json" />
+      <path value="$PROJECT_DIR$/react-services/server/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="120" />
+    <option name="y" value="-15" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="newspaper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newspaper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newspaper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newspaper" type="462c0819:PsiDirectoryNode" />
+              <item name="react-services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newspaper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newspaper" type="462c0819:PsiDirectoryNode" />
+              <item name="react-services" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newspaper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newspaper" type="462c0819:PsiDirectoryNode" />
+              <item name="react-services" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/NTNU/4. semester/Scrum/hverdagshelt" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/react-services/client/node_modules/jest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ådne\Google Drive\NTNU\3. semester\Systemutvikling 2 med web-applikasjoner\newspaper\react-services\server\dao" />
+      <recent name="C:\Users\Ådne\Google Drive\NTNU\3. semester\Systemutvikling 2 med web-applikasjoner\newspaper\react-services\server\tests" />
+      <recent name="C:\Users\Ådne\Google Drive\NTNU\3. semester\Systemutvikling 2 med web-applikasjoner\newspaper\react-services\server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.Layout-test">
+    <configuration name="Add one article to database (1)" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/react-services/server" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/react-services/server/dao/nyhetssakdao.test.js" />
+      <test-names>
+        <test-name value="Add one article to database" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Get one article from database (1)" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/react-services/server" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/react-services/server/tests/nyhetssakdao.test.js" />
+      <test-names>
+        <test-name value="Get one article from database" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Layout-test" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/react-services/client" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/react-services/client/tests/widgetsTest.js" />
+      <test-names>
+        <test-name value="Layout-test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ListGroup-test" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/react-services/client" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/react-services/client/tests/widgetsTest.js" />
+      <test-names>
+        <test-name value="ListGroup-test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Row-test" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$/react-services/client" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/react-services/client/tests/widgetsTest.js" />
+      <test-names>
+        <test-name value="Row-test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.Get one article from database (1)" />
+      <item itemvalue="Jest.Add one article to database (1)" />
+      <item itemvalue="Jest.ListGroup-test" />
+      <item itemvalue="Jest.Row-test" />
+      <item itemvalue="Jest.Layout-test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Layout-test" />
+        <item itemvalue="Jest.Row-test" />
+        <item itemvalue="Jest.ListGroup-test" />
+        <item itemvalue="Jest.Add one article to database (1)" />
+        <item itemvalue="Jest.Get one article from database (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2fc0711-7bd7-4209-aca5-b2acf56c8985" name="Default Changelist" comment="" />
+      <created>1540902949451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540902949451</updated>
+      <workItem from="1540902951810" duration="5487000" />
+      <workItem from="1540974966993" duration="7380000" />
+      <workItem from="1541082446629" duration="18094000" />
+      <workItem from="1541406218439" duration="33854000" />
+      <workItem from="1541581277969" duration="2762000" />
+      <workItem from="1541683234353" duration="815000" />
+      <workItem from="1542007585112" duration="18608000" />
+      <workItem from="1542095492456" duration="15728000" />
+      <workItem from="1542115008658" duration="34483000" />
+      <workItem from="1542270754491" duration="17269000" />
+      <workItem from="1542354742236" duration="17839000" />
+      <workItem from="1542460072327" duration="14451000" />
+      <workItem from="1542611444131" duration="17129000" />
+      <workItem from="1542700529660" duration="19044000" />
+      <workItem from="1542746992294" duration="506000" />
+      <workItem from="1542748651105" duration="1118000" />
+      <workItem from="1542788155649" duration="1743000" />
+      <workItem from="1542797311599" duration="406000" />
+      <workItem from="1546796475943" duration="1848000" />
+      <workItem from="1546886912670" duration="835000" />
+      <workItem from="1546952224836" duration="243000" />
+      <workItem from="1559160490268" duration="55000" />
+    </task>
+    <task id="LOCAL-00001" summary="Pushing everything and testing first tests">
+      <created>1542714726460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542714726460</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testing tests #2">
+      <created>1542715326952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542715326952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testing tests #3">
+      <created>1542715803024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542715803024</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testing tests #4">
+      <created>1542716005797</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542716005797</updated>
+    </task>
+    <task id="LOCAL-00005" summary="testing tests #5, hopefully working now">
+      <created>1542716710670</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542716710670</updated>
+    </task>
+    <task id="LOCAL-00006" summary="testing tests #6 - worked better, but still no good">
+      <created>1542717250489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542717250489</updated>
+    </task>
+    <task id="LOCAL-00007" summary="testing tests #7 - y this no work">
+      <created>1542717975108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542717975108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="testing tests #8 - worked better, updated create_tables-file">
+      <created>1542718197279</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542718197279</updated>
+    </task>
+    <task id="LOCAL-00009" summary="testing tests #9 - worked better, updated create_testdata-file">
+      <created>1542718402546</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542718402546</updated>
+    </task>
+    <task id="LOCAL-00010" summary="testing tests #10 - first 5 tests hopefully working">
+      <created>1542718806041</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542718806041</updated>
+    </task>
+    <task id="LOCAL-00011" summary="testing tests #11 - first 5 must be working by now">
+      <created>1542718996109</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542718996109</updated>
+    </task>
+    <task id="LOCAL-00012" summary="testing tests #12 - first 5 working, fixed some flow-errors">
+      <created>1542719406169</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542719406169</updated>
+    </task>
+    <task id="LOCAL-00013" summary="removed models.js, added test for full dao">
+      <created>1542720716744</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542720716744</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added tests for front-end widgets">
+      <created>1542724330094</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542724330094</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed tests and small touches to index.js">
+      <created>1542736755379</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542736755379</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Something fucked up, trying again">
+      <created>1542737142216</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542737142216</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Still won't connect to database, tried moving the file">
+      <created>1542737433997</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542737433997</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Final commit, minor changes">
+      <created>1542747231752</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1542747231752</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Get_one_article_from_database_(1) - 2018.11.16 at 09h 44m 08s.xml">
+      <configuration name="Get one article from database (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Add_one_article_to_database_(1) - 2018.11.20 at 13h 00m 26s.xml">
+      <configuration name="Add one article to database (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Add_one_article_to_database_(1) - 2018.11.20 at 13h 00m 47s.xml">
+      <configuration name="Add one article to database (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="ListGroup-test - 2018.11.20 at 15h 41m 57s.xml">
+      <configuration name="ListGroup-test" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="ListGroup-test - 2018.11.20 at 15h 43m 17s.xml">
+      <configuration name="ListGroup-test" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="ListGroup-test - 2018.11.20 at 15h 44m 35s.xml">
+      <configuration name="ListGroup-test" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Row-test - 2018.11.20 at 15h 45m 17s.xml">
+      <configuration name="Row-test" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Layout-test - 2018.11.20 at 15h 47m 25s.xml">
+      <configuration name="Layout-test" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Layout-test - 2018.11.20 at 15h 47m 47s.xml">
+      <configuration name="Layout-test" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Layout-test - 2018.11.20 at 15h 55m 58s.xml">
+      <configuration name="Layout-test" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="229697000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1671141" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46888566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942113" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.20694645" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32850942" />
+      <window_info anchor="bottom" id="Flow" order="9" weight="0.3299566" />
+      <window_info anchor="bottom" id="DB Execution Console" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49932885" visible="true" weight="0.21562952" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50067115" side_tool="true" weight="0.276411" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15503356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46888566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942113" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.20814978" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32929516" />
+      <window_info anchor="bottom" id="Flow" order="9" />
+      <window_info anchor="bottom" id="DB Execution Console" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49932885" weight="0.276411" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50067115" side_tool="true" weight="0.276411" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pushing everything and testing first tests" />
+    <MESSAGE value="testing tests #2" />
+    <MESSAGE value="testing tests #3" />
+    <MESSAGE value="testing tests #4" />
+    <MESSAGE value="testing tests #5, hopefully working now" />
+    <MESSAGE value="testing tests #6 - worked better, but still no good" />
+    <MESSAGE value="testing tests #7 - y this no work" />
+    <MESSAGE value="testing tests #8 - worked better, updated create_tables-file" />
+    <MESSAGE value="testing tests #9 - worked better, updated create_testdata-file" />
+    <MESSAGE value="testing tests #10 - first 5 tests hopefully working" />
+    <MESSAGE value="testing tests #11 - first 5 must be working by now" />
+    <MESSAGE value="testing tests #12 - first 5 working, fixed some flow-errors" />
+    <MESSAGE value="removed models.js, added test for full dao" />
+    <MESSAGE value="Added tests for front-end widgets" />
+    <MESSAGE value="Fixed tests and small touches to index.js" />
+    <MESSAGE value="Something fucked up, trying again" />
+    <MESSAGE value="Still won't connect to database, tried moving the file" />
+    <MESSAGE value="Final commit, minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit, minor changes" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/react-services/server/flow-typed/npm/mysql_v2.x.x.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/tests/modelsTest.js" />
+    <entry file="file://$PROJECT_DIR$/react-services/client/public/bundle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/api/Nyheter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/backend/package.json" />
+    <entry file="file://$PROJECT_DIR$/react-services/backend/server.js" />
+    <entry file="file://$PROJECT_DIR$/react-services/server/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/node_modules/npm/node_modules/ajv/lib/dotjs/oneOf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/test.js" />
+    <entry file="file://$PROJECT_DIR$/react-services/client/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/client/public/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="6569" selection-start-line="5" selection-start-column="6569" selection-end-line="5" selection-end-column="6569" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/client/node_modules/react-router-dom/es/NavLink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="6433" column="70" selection-start-line="6433" selection-start-column="70" selection-end-line="6433" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/src/models.js" />
+    <entry file="file://$PROJECT_DIR$/react-services/client/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/client/tests/setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/coverage/models.js.html" />
+    <entry file="file://$PROJECT_DIR$/react-services/server/coverage/nyhetssakdao.js.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/runsqlfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/coverage/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/create_tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/create_testdata.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="162" selection-start-line="4" selection-start-column="162" selection-end-line="4" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/dao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/client/src/widgets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/client/tests/widgetsTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="89" column="3" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/nyhetssakdao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/src/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="69" column="57" lean-forward="true" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/client/src/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/kategoridao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/nyhetssakdao.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/server/dao/nyheter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-services/client/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10994">
+          <caret line="478" column="28" selection-start-line="478" selection-start-column="28" selection-end-line="478" selection-end-column="28" />
+          <folding>
+            <element signature="e#10#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
